@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "Folder Size",
+		"description": "The plugin shows the size of the folders of the installation (total, databases, pages, uploads)."
+	},
+	"size-of-the-folders-of-the-installation": "Size of the folders of the installation.",
+	"total": "Total",
+	"databases": "Databases",
+	"uploads": "Uploads"
+}
