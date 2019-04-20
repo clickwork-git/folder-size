@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "Klasör Boyutu",
+		"description": "Eklenti, kurulumun klasörlerinin boyutunu gösterir (toplam, veritabanları, sayfalar, yüklemeler)."
+	},
+	"size-of-the-folders-of-the-installation": "Yükleme klasörlerinin boyutu.",
+	"total": "Toplam",
+	"databases": "Veritabanları",
+	"uploads": "Yüklemeler"
+}
